@@ -23,7 +23,7 @@ email: guiltytechnophile@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Exploring topics around technology and culture.
 baseurl: "/guiltytechnophile" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://vincentadam87.github.io/guiltytechnophile" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: vincentadam87
 # github_username:  vincentadam87
 
