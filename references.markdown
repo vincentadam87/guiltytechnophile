@@ -15,5 +15,5 @@ permalink: /references/
 | Stolen focus           | Johann Hari    | 2022           | [Goodreads](https://www.goodreads.com/book/show/57933306-stolen-focus)           |
 | Stand Out of Our Light | James Williams | 2018           | [Goodreads](https://www.goodreads.com/book/show/38364667-stand-out-of-our-light) |
 | How to do nothing      | Jenny Odell    | 2019           | [Goodreads](https://www.goodreads.com/book/show/42771901-how-to-do-nothing)      |
-| The shallows           | Nicholas Carr  | 2010           | [Goodreads](https://www.goodreads.com/book/show/9778945-the-shallows)            |
+| The Shallows           | Nicholas Carr  | 2010           | [Goodreads](https://www.goodreads.com/book/show/9778945-the-shallows)            |
 
