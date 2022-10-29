@@ -5,7 +5,7 @@ date: 2022-10-29
 ---
 
 
-My generation grew up with the internet. I can’t imagine life before its advent – unless I intentionally disengage from it in a radical move. For my parents’ generation the rise of the internet happened during their late thirties: they were well engaged into their respective careers and there existed a life without it. Nicholas Carr is a couple of years younger than my parents. As a young journalist he embraced the possibilities of internet with enthusiasm: blogs, search engines and social media offered new ways to find information, produce and share content to a large audience. Until something changed.
+My generation grew up with the internet. I can’t imagine life before its advent – unless I intentionally disengage from it in a radical move. For my parents’ generation the rise of the internet happened during their late thirties: they were well engaged into their respective careers and there existed a life without it. Born in 1959, Nicholas Carr is a couple of years younger than my parents. As a young journalist he embraced the possibilities of internet with enthusiasm: blogs, search engines and social media offered new ways to find information, produce and share content to a large audience. Until something changed.
 
 Carr is part of an early group of writers who noticed with a growing unease that internet was changing him: he could no longer read books, would easily get distracted, started to develop a set of compulsive behaviors (which you are most likely familiar with). With his book [The Shallows](https://www.nicholascarr.com/?page_id=16), published in 2010, he sets of to understand what was happening to him and whether he should be worried.
 
