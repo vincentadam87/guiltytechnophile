@@ -9,6 +9,8 @@ permalink: /references/
 
 | Title                  | Author         | Date Published | Link                                                                             |
 |:-----------------------|:---------------|:---------------|:---------------------------------------------------------------------------------|
+| Ethics and Religion in the Age of Social Media: Digital Proverbs for Responsible Citizens      | Kevin Healey, Robert H. Woods Jr.     | 2020           | [Goodreads](https://www.goodreads.com/book/show/50643711-ethics-and-religion-in-the-age-of-social-media)           |
+| The Chaos Machine      | Max Fisher     | 2022           | [Goodreads](https://www.goodreads.com/book/show/58950649-the-chaos-machine)           |
 | Irresistible           | Adam Alter     | 2017           | [Goodreads](https://www.goodreads.com/book/show/30962055-irresistible)           |
 | Indistractable         | Nir Eyal       | 2019           | [Goodreads](https://www.goodreads.com/book/show/44595007-indistractable)         |
 | Digital Minimalism     | Cal Newport    | 2019           | [Goodreads](https://www.goodreads.com/book/show/40672036-digital-minimalism)     |
